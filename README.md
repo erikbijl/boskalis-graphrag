@@ -195,8 +195,3 @@ streamlit run frontend/streamlit/chat.py
 This project is for demonstration purposes.
 
 ---
-
-## Author
-
-**Erik Bijl**  
-[GitHub Repository](https://github.com/erikbijl/boskalis-graphrag)
